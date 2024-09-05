@@ -1,0 +1,405 @@
+{
+  "job": {
+    "job_title": ".NET Full stack Developer",
+    "job_role": "Technical Consultant",
+    "work_mode": "On-site",
+    "skills": [
+      "asp.net core", "C#", "webservice", "azure", "react", "angular", "javascript",
+      "HTML5", "CSS3", "Bootstrap", "Vue.js", "data structure", "MSSQL", "Karma",
+      "Jasmine", "PostgreSQL"
+    ],
+    "employment_type": "Full-time",
+    "company_name": "Deloitte",
+    "location": "Bangalore/Bengaluru",
+    "experience": "5 - 10 years",
+    "salary": "€ 8,00,000 - 18,00,000 P.A.",
+    "preferred_degree": "B.Tech/B.E. in Any Specialization",
+    "industry_type": "Management Consulting",
+    "job_description": "Deloitte is hiring for .NET Full stack developers for Bangalore location. The role involves responsibility for being a part of/leading a work stream or module on a large-scale project or overall delivery lead in case of short term/ small scale engagement. Candidates should be able to demonstrate professional experience and knowledge, coupled with strong technical background to help define and execute/contribute to end-to-end cross-functional projects.",
+    "required_joining_time": 30
+  },
+  "candidates": [
+    {
+      "Name": "Ashutosh Maurya",
+      "Email": "ashutosh44001@gmail.com",
+      "Phone-Number": "8853264553",
+      "Summary": "Motivated Python developer inclined to develop backend and frontend technologies with databases. Proficient in coding, scripting, and effective communication.",
+      "Current-Location": "Ghaziabad (201009)",
+      "Current-Company": "Ducat",
+      "Skills": [
+        "Python (Core + Advance)",
+        "Web Framework (Django)",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "NumPy",
+        "Pandas",
+        "Matplotlib"
+      ],
+      "Linkedin-Id": "",
+      "Github-Id": "",
+      "Total-Experience": 1,
+      "Notice-Period": 30,
+      "Education": [
+        {
+          "Degree": "Master's of Computer Application (M.C.A)",
+          "Specialization": "",
+          "Institute": "Dr. A.P.J. Abdul Kalam Technical University",
+          "Start": 2020,
+          "End": 2022
+        },
+        {
+          "Degree": "Bachelor's of Commerce",
+          "Specialization": "",
+          "Institute": "Gorakhpur University",
+          "Start": 2017,
+          "End": 2020
+        }
+      ],
+      "Education-Year": [2022, 2020],
+      "Experiences": [
+        {
+          "Company Name": "Ducat",
+          "Designation": "Python Developer (Trainee)",
+          "Start": "24/03/2022",
+          "End": "30/03/2023",
+          "Description": "Developing backend components with reusable, testable, and efficient codes. Connecting applications with other web services, interacting with frontend developers to build server-side logics. Writing SQL queries and maintaining databases. Creating frontend with HTML, CSS, JavaScript, and Django templates."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "Hotel Billing System",
+          "Project-Description": "Data Structure and Algorithm"
+        },
+        {
+          "Project": "Hospital Management System",
+          "Project-Description": "OOP's"
+        }
+      ],
+      "Roles-Responsibility": [],
+      "Certifications": [
+        "Python Developer (Ducat)",
+        "Big Data (Cognitel Pvt.Ltd)",
+        "CCC (NIELIT)"
+      ],
+      "Expected-Salary": null
+    },
+    {
+      "Name": "Priya Sharma",
+      "Email": "priya.sharma@gmail.com",
+      "Phone-Number": "9876543210",
+      "Summary": "Experienced .NET developer with expertise in ASP.NET Core and C#. Strong background in developing scalable web applications.",
+      "Current-Location": "Bangalore",
+      "Current-Company": "TechSolutions India",
+      "Skills": [
+        "ASP.NET Core",
+        "C#",
+        "JavaScript",
+        "Angular",
+        "SQL Server",
+        "Azure",
+        "Entity Framework"
+      ],
+      "Linkedin-Id": "linkedin.com/in/priyasharma",
+      "Github-Id": "github.com/priyasharma",
+      "Total-Experience": 6,
+      "Notice-Period": 60,
+      "Education": [
+        {
+          "Degree": "B.Tech in Computer Science",
+          "Specialization": "",
+          "Institute": "Indian Institute of Technology, Delhi",
+          "Start": 2011,
+          "End": 2015
+        }
+      ],
+      "Education-Year": [2015],
+      "Experiences": [
+        {
+          "Company Name": "TechSolutions India",
+          "Designation": "Senior Software Developer",
+          "Start": "01/06/2018",
+          "End": "Present",
+          "Description": "Developing and maintaining large-scale web applications using ASP.NET Core and Angular. Leading a team of junior developers and mentoring them."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "E-commerce Platform",
+          "Project-Description": "Developed a scalable e-commerce platform using ASP.NET Core and Angular"
+        }
+      ],
+      "Roles-Responsibility": ["Team Lead", "Code Review", "Architecture Design"],
+      "Certifications": [
+        "Microsoft Certified: Azure Developer Associate",
+        "MCSD: App Builder"
+      ],
+      "Expected-Salary": 2000000
+    },
+    {
+      "Name": "Rahul Gupta",
+      "Email": "rahul.gupta@hotmail.com",
+      "Phone-Number": "8765432109",
+      "Summary": "Full stack developer with expertise in MEAN stack. Passionate about building responsive and user-friendly web applications.",
+      "Current-Location": "Mumbai",
+      "Current-Company": "WebTech Solutions",
+      "Skills": [
+        "MongoDB",
+        "Express.js",
+        "Angular",
+        "Node.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "RESTful APIs"
+      ],
+      "Linkedin-Id": "linkedin.com/in/rahulgupta",
+      "Github-Id": "github.com/rahulgupta",
+      "Total-Experience": 4,
+      "Notice-Period": 30,
+      "Education": [
+        {
+          "Degree": "B.E. in Information Technology",
+          "Specialization": "",
+          "Institute": "Mumbai University",
+          "Start": 2013,
+          "End": 2017
+        }
+      ],
+      "Education-Year": [2017],
+      "Experiences": [
+        {
+          "Company Name": "WebTech Solutions",
+          "Designation": "Full Stack Developer",
+          "Start": "01/08/2019",
+          "End": "Present",
+          "Description": "Developing full stack web applications using MEAN stack. Collaborating with UI/UX designers to implement responsive designs."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "Task Management System",
+          "Project-Description": "Developed a real-time task management system using MEAN stack and Socket.io"
+        }
+      ],
+      "Roles-Responsibility": ["Full Stack Development", "API Design", "Database Management"],
+      "Certifications": [
+        "MongoDB Certified Developer",
+        "Angular Certified Developer"
+      ],
+      "Expected-Salary": 1500000
+    },
+    {
+      "Name": "Ananya Patel",
+      "Email": "ananya.patel@yahoo.com",
+      "Phone-Number": "7654321098",
+      "Summary": "Frontend developer specializing in React and modern JavaScript. Keen eye for design and user experience.",
+      "Current-Location": "Pune",
+      "Current-Company": "InnovateTech",
+      "Skills": [
+        "React",
+        "Redux",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Sass",
+        "Webpack",
+        "Jest"
+      ],
+      "Linkedin-Id": "linkedin.com/in/ananyapatel",
+      "Github-Id": "github.com/ananyapatel",
+      "Total-Experience": 3,
+      "Notice-Period": 45,
+      "Education": [
+        {
+          "Degree": "B.Tech in Computer Engineering",
+          "Specialization": "",
+          "Institute": "Pune University",
+          "Start": 2014,
+          "End": 2018
+        }
+      ],
+      "Education-Year": [2018],
+      "Experiences": [
+        {
+          "Company Name": "InnovateTech",
+          "Designation": "Frontend Developer",
+          "Start": "15/07/2020",
+          "End": "Present",
+          "Description": "Developing responsive and interactive user interfaces using React and Redux. Collaborating with backend developers to integrate APIs."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "Social Media Dashboard",
+          "Project-Description": "Created a responsive dashboard for social media analytics using React and D3.js"
+        }
+      ],
+      "Roles-Responsibility": ["UI Development", "Performance Optimization", "Cross-browser Compatibility"],
+      "Certifications": [
+        "React Certified Developer",
+        "Google Analytics Individual Qualification"
+      ],
+      "Expected-Salary": 1200000
+    },
+    {
+      "Name": "Vikram Singh",
+      "Email": "vikram.singh@gmail.com",
+      "Phone-Number": "6543210987",
+      "Summary": "Experienced backend developer with expertise in Java and Spring Framework. Strong in designing and implementing scalable microservices.",
+      "Current-Location": "Hyderabad",
+      "Current-Company": "TechGlobal India",
+      "Skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "RESTful APIs",
+        "MySQL",
+        "Docker",
+        "Kubernetes",
+        "JUnit"
+      ],
+      "Linkedin-Id": "linkedin.com/in/vikramsingh",
+      "Github-Id": "github.com/vikramsingh",
+      "Total-Experience": 7,
+      "Notice-Period": 90,
+      "Education": [
+        {
+          "Degree": "M.Tech in Computer Science",
+          "Specialization": "",
+          "Institute": "Indian Institute of Technology, Hyderabad",
+          "Start": 2010,
+          "End": 2012
+        }
+      ],
+      "Education-Year": [2012],
+      "Experiences": [
+        {
+          "Company Name": "TechGlobal India",
+          "Designation": "Senior Backend Developer",
+          "Start": "01/03/2017",
+          "End": "Present",
+          "Description": "Designing and implementing microservices architecture using Spring Boot. Optimizing application performance and ensuring high availability."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "Payment Gateway Integration",
+          "Project-Description": "Developed a secure payment gateway integration system using Spring Boot and microservices architecture"
+        }
+      ],
+      "Roles-Responsibility": ["Backend Architecture", "Code Review", "Performance Tuning"],
+      "Certifications": [
+        "Oracle Certified Professional, Java SE 11 Developer",
+        "AWS Certified Developer - Associate"
+      ],
+      "Expected-Salary": 2500000
+    },
+    {
+      "Name": "Neha Reddy",
+      "Email": "neha.reddy@outlook.com",
+      "Phone-Number": "5432109876",
+      "Summary": "DevOps engineer with strong experience in CI/CD pipelines and cloud technologies. Passionate about automating deployment processes.",
+      "Current-Location": "Chennai",
+      "Current-Company": "CloudTech Solutions",
+      "Skills": [
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "Ansible",
+        "Python",
+        "Bash Scripting"
+      ],
+      "Linkedin-Id": "linkedin.com/in/nehareddy",
+      "Github-Id": "github.com/nehareddy",
+      "Total-Experience": 5,
+      "Notice-Period": 60,
+      "Education": [
+        {
+          "Degree": "B.E. in Computer Science",
+          "Specialization": "",
+          "Institute": "Anna University",
+          "Start": 2012,
+          "End": 2016
+        }
+      ],
+      "Education-Year": [2016],
+      "Experiences": [
+        {
+          "Company Name": "CloudTech Solutions",
+          "Designation": "DevOps Engineer",
+          "Start": "01/09/2018",
+          "End": "Present",
+          "Description": "Implementing and maintaining CI/CD pipelines. Managing cloud infrastructure on AWS using Terraform. Automating deployment processes using Jenkins and Ansible."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "Automated Deployment System",
+          "Project-Description": "Developed an automated deployment system using Jenkins, Docker, and Kubernetes for microservices architecture"
+        }
+      ],
+      "Roles-Responsibility": ["CI/CD Implementation", "Infrastructure as Code", "Cloud Management"],
+      "Certifications": [
+        "AWS Certified DevOps Engineer - Professional",
+        "Certified Kubernetes Administrator (CKA)"
+      ],
+      "Expected-Salary": 1800000
+    },
+    {
+      "Name": "Arjun Mehta",
+      "Email": "arjun.mehta@gmail.com",
+      "Phone-Number": "4321098765",
+      "Summary": "Data scientist with expertise in machine learning and deep learning. Passionate about solving complex problems using data-driven approaches.",
+      "Current-Location": "Kolkata",
+      "Current-Company": "AI Innovations",
+      "Skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "Data Visualization"
+      ],
+      "Linkedin-Id": "linkedin.com/in/arjunmehta",
+      "Github-Id": "github.com/arjunmehta",
+      "Total-Experience": 4,
+      "Notice-Period": 45,
+      "Education": [
+        {
+          "Degree": "M.Sc. in Data Science",
+          "Specialization": "",
+          "Institute": "Indian Statistical Institute, Kolkata",
+          "Start": 2015,
+          "End": 2017
+        }
+      ],
+      "Education-Year": [2017],
+      "Experiences": [
+        {
+          "Company Name": "AI Innovations",
+          "Designation": "Senior Data Scientist",
+          "Start": "15/01/2019",
+          "End": "Present",
+          "Description": "Developing and implementing machine learning models for various business problems. Conducting data analysis and creating insightful visualizations."
+        }
+      ],
+      "Projects": [
+        {
+          "Project": "Customer Churn Prediction",
+          "Project-Description": "Developed a machine learning model to predict customer churn using historical data and customer behavior patterns"
+        }
+      ],
+      "Roles-Responsibility": ["Model Development", "Data Analysis", "Research and Development"],
+      "Certifications": [
+        "TensorFlow Developer Certificate",
+        "IBM Data Science Professional Certificate"
+      ],
+      "Expected-Salary": 1700000
+    }
+  ]
+}
